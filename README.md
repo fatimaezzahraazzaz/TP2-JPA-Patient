@@ -48,7 +48,7 @@ Fichier de configuration de la base de données h2 puis  MySQL et des paramètre
 
 ## 🧪 Exécution du projet
 
-1. Lancer MySQL localement et s’assurer que l’utilisateur `root` a un mot de passe vide (ou à adapter selon votre configuration).
+1. Lancer MySQL localement et s’assurer que l’utilisateur `root` a un mot de passe vide .
 2. pour h2 ma bd est "patient_db"avec le port  `8085` :
    ```properties
 
